@@ -1,0 +1,1 @@
+[{"book": "GEN", "version": "NIV"}, []]
