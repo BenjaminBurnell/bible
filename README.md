@@ -1,7 +1,7 @@
 # Bible Reference
 This repository is how any one can reference any bible version in any language provided.
 
-# How Does It Word?
+# How Does It Work?
 Reference
 ```
 URL = 'https://raw.githubusercontent.com/BenjaminBurnell/bible/main/{version}-{language}/{book}.js' // Example: 'https://raw.githubusercontent.com/BenjaminBurnell/bible/main/NIV-EN/JHN.js'.
