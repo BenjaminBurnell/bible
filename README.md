@@ -3,5 +3,5 @@ This repository is how any one can reference any bible version in any language p
 
 # How Does It Word?
 ```
-<script src="../NIV-EN/GEN.js"></script>
+<script src="../NIV-EN/JHN.js"></script>
 ```
