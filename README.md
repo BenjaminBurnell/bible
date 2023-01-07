@@ -4,7 +4,8 @@ This repository is how any one can reference any bible version in any language p
 # How Does It Word?
 Reference
 ```
-fetch('https://raw.githubusercontent.com/BenjaminBurnell/bible/main/{version}-{language}/{book}.js') // Example: 'https://raw.githubusercontent.com/BenjaminBurnell/bible/main/NIV-EN/JHN.js'.
+URL = 'https://raw.githubusercontent.com/BenjaminBurnell/bible/main/{version}-{language}/{book}.js' // Example: 'https://raw.githubusercontent.com/BenjaminBurnell/bible/main/NIV-EN/JHN.js'.
+fetch(URL) 
 .then((response) => response.json())
 .then((data) => console.log(data)) // Get the data and log it.
 ```
