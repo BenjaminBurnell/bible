@@ -3,7 +3,6 @@ This repository is how any one can reference any bible version in any language p
 
 # How Does It Work?
 ### Reference
-```
 URL = 'https://raw.githubusercontent.com/BenjaminBurnell/bible/main/{version}-{language}/{book}.js' // Example: 'https://raw.githubusercontent.com/BenjaminBurnell/bible/main/NIV-EN/JHN.js'.
 fetch(URL) 
 .then((response) => response.json())
